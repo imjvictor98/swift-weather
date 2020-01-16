@@ -10,7 +10,7 @@ As dependências do iOS são feitas através do CocoaPods, se não tem instalado
 * NVActivityIndicatorView
 
 ## Instalação 
-Acesse a pasta do projeto pelo terminal `cd desktop/swift-weather` ou dentro da pasta que vc clonou o repositório rode o comando `pod install` para instalar todas as dependências necessárias.
+Acesse a pasta do projeto pelo terminal `cd desktop/swift-weather` ou dentro da pasta que você clonou o repositório, rode o comando `pod install` para instalar todas as dependências necessárias.
 Com as dependências instaladas, abra o arquivo **Weather.xcworkspace** e rode o projeto.
 
 ## Screenshot
