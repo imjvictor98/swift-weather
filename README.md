@@ -2,7 +2,7 @@
 Weather é um app desenvolvido em Swift para verificar o clima em uma determinada região.
 
 ## Dependências
-As dependências do iOS são feitas através do CocoaPods, se não tem instalado, pode optar por instalar pelo terminal: `sudo gem install cocoapods` ou baixando pelo site do Cocoa, [basta clicar aqui](https://github.com/CocoaPods/CocoaPods-app/releases/download/1.5.2/CocoaPods.app-1.5.2.tar.bz2/).
+As dependências do iOS são feitas através do CocoaPods, se não tem instalado, pode optar por instalar pelo terminal: `sudo gem install cocoapods` ou baixando pelo site do Cocoa [basta clicar aqui](https://github.com/CocoaPods/CocoaPods-app/releases/download/1.5.2/CocoaPods.app-1.5.2.tar.bz2/).
 
 ## Dependências usadas 
 * Alamofire **v4.7**
