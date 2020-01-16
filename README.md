@@ -17,4 +17,4 @@ Com as dependências instaladas, abra o arquivo **Weather.xcworkspace** e rode o
 
 ##Screenshot
 
-<img src="https://imgur.com/kMNRfw1.png" />
+<img src="https://imgur.com/kMNRfw1.png" width="400" height="800" />
