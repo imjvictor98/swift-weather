@@ -16,4 +16,5 @@ Acesse a pasta do projeto pelo terminal `cd desktop/swift-weather` ou dentro da 
 Com as dependências instaladas, abra o arquivo **Weather.xcworkspace** e rode o projeto.
 
 ##Screenshot
-<img src="https://imgur.com/a/wC9zZfJ"/>
+
+<img src="https://imgur.com/kMNRfw1" />
